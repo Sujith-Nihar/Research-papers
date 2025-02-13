@@ -1,4 +1,4 @@
-# Research-papers
+# Research-work
 
 Hi, I'm Sujith Thota! 👋
 I'm a Machine Learning Research Student with a strong focus on computer vision and deep learning. My research explores the integration of AI in real-world applications, particularly in video surveillance and healthcare analytics.
