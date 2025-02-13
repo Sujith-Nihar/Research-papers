@@ -5,8 +5,10 @@ I'm a Machine Learning Research Student with a strong focus on computer vision a
 
 🔬 Research & Publications:
 
-📄 Anomalous Event Detection in Surveillance Videos using Spatio-temporal Autoencoders – Developed an AI model for real-time anomaly detection in surveillance footage using deep learning.
-📄 Machine Learning Implementation for Health Insurance – Built a predictive system to estimate health insurance claims based on user attributes.
+📄 Anomalous Event Detection in Surveillance Videos using Spatio-temporal Autoencoders – Developed an AI model for real-time anomaly detection in surveillance footage using deep learning. Link: https://www.warse.org/IJATCSE/static/pdf/file/ijatcse011132022.pdf
+
+📄 Machine Learning Implementation for Health Insurance – Built a predictive system to estimate health insurance claims based on user attributes. Link : http://www.warse.org/IJATCSE/static/pdf/file/ijatcse721032021.pdf
+
 💼 Industry Experience:
 Previously, I worked as a Machine Learning Engineer & Full Stack Developer at Accenture for 2 years, where I:
 
